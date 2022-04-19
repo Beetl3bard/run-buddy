@@ -12,3 +12,5 @@ https://Beetl3bard.github.io/run-buddy
 
 Contributions
 Made with ❤️ by Josh West
+
+### Run Buddy Inc.
