@@ -46,6 +46,19 @@ footer a{color: #024e76;}
 
 /*apply styling to Hero*/
 section {padding: 60px;}
+.hero-cta{
+      width: 35%;
+      text-align: right;
+      margin: 3.5%;
+      color: #fff
+      font-size: 18px;
+      line-height: 1.3;}
+
+.hero-cta h2{
+      font-style: italic;
+      font-size: 55px;
+      color: #fce138;
+}
 .hero {background-image: url("../images/hero-bg.jpg");
        background-size: cover;
        background-position: center;
