@@ -65,7 +65,8 @@ section {padding: 60px;}
        display: flex;
        Justify-content: center;
        flex-wrap:wrap;          
-       border: solid 3px #024e76;}
+       border: solid 3px #024e76;
+      }
                   .hero-form h3 {font-size: 24px; margin: 0;}
                   .hero-form p{margin: 5px 0 15px 0;}
                   .form-input{border: 1px solid #024e76;
