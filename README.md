@@ -1,16 +1,16 @@
-# run-buddy
+# Run-Buddy
 
-#purpose
+## Purpose
 Create website that offers fitness training.
 
-#built with
+## Built With
 *HTML
 *CSS
 
-#Website
+## Website
 https://Beetl3bard.github.io/run-buddy
 
-Contributions
+## Contributions
 Made with ❤️ by Josh West
 
 <<<<<<< HEAD
